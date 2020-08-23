@@ -37,13 +37,13 @@ python -m venv <nombre_env>
 
 3. Abrir Jupyter notebook e ingresar a la ubicación del archivo para correrlo.
 
+[Guia para instalar Jupyter](https://medium.com/saturdays-ai/empezando-a-usar-jupyter-notebook-para-python-parte-1-instalación-94e97b4c5f37)
+
 Luego de instalar Jupyter notebook:
 
 ```
 jupyter notebook
 ```
-
-https://medium.com/saturdays-ai/empezando-a-usar-jupyter-notebook-para-python-parte-1-instalación-94e97b4c5f37
 
 ## Autor:
 
