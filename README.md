@@ -1,7 +1,7 @@
 # Ejercicios_Practicos
 En este repositorio encontrarás ejercicios prácticos del uso de Python y librerias como Pandas, Numpy y librerias para visualización como Matplotlib y Seaborn.
 
-Para la práctica de visualización se requiere el archivo df3.
+Para la práctica de visualización se requiere el archivo df3 y para la practica de Pandas se requiere el archivo Salaries.
 
 Precondición:
 Es necesario instalar Jupyter notebook/Python 3.
